@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/12/22 17:36:47。
+     1>项目“F:\workTraining\LeetCode\pro1\pro1\pro1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(43): error C2065: “unordered_map”: 未声明的标识符
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(43): error C2062: 意外的类型“int”
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(45): error C2065: “numbers”: 未声明的标识符
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(45): error C2228: “.size”的左边必须有类/结构/联合
+                 类型是“'unknown-type'”
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(46): error C2065: “numbers”: 未声明的标识符
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(47): error C2059: 语法错误:“.”
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(47): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(48): error C2955: “std::hash”: 使用类 模板 需要 模板 参数列表
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\xstddef(234) : 参见“std::hash”的声明
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(52): error C2143: 语法错误 : 缺少“;”(在“[”的前面)
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(52): error C2337: “numbers”: 未找到特性
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(52): error C2143: 语法错误 : 缺少“]”(在“[”的前面)
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(52): error C2337: “i”: 未找到特性
+     1>f:\worktraining\leetcode\pro1\pro1\源.cpp(52): error C2143: 语法错误 : 缺少“;”(在“]”的前面)
+     1>已完成生成项目“F:\workTraining\LeetCode\pro1\pro1\pro1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.55
